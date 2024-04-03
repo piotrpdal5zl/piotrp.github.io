@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+		background-image: url(ok.png);
+}
+#pudelko {
+	margin: auto;
+	width: 1920px;
+}
+#logo {
+	height: 100px;
+	background-color: gray;
+}
+#menu {
+	width: 400px;
+	height: 830px;
+	float: right;
+	background-color: darkgray;
+}
+#tresc {
+	width: 1920px;
+	height: 400px;
+	float: right;
+
+}
+#stopka {
+	background-color: gray;
+	clear: both;
